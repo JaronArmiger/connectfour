@@ -4,3 +4,5 @@ require_relative 'player.rb'
 board = Board.new
 game = Game.new(board)
 game.play
+
+#:)
